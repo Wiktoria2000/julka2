@@ -147,8 +147,7 @@ time = str(datetime.timedelta(seconds=t))
 print("Przewdywany czas lotu",time,'h' )
 
 
-        
-        
+        #julka jest fajna
         
     
 
